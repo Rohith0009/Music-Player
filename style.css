@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+	
+}
+
+h1{
+	color: aliceblue;
+	
+}
+
+h4{
+	color: antiquewhite;
+	
+}
+
+.s1{
+	color:aliceblue;
+	margin-left: 230px;
+}
+
+.s2{
+	color: aliceblue;
+	margin-left: 170px;
+}
+
+img{
+	height: 200px;
+	width: 250px;
+	border-color: aliceblue;
+	border-style: double;
+}
+
+#stop{
+	margin-top: 20px;
+	border-radius: 10px;
+	width: 100px;
+	height: 50px;	
+	background-color: limegreen;
+}
